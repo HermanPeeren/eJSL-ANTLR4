@@ -1,0 +1,17 @@
+{
+    "name": "yepr/antlr4-php",
+    "description": "Antler4-PHP-runtime",
+    "require": {
+        "antlr/antlr4-php-runtime": "*"
+    },
+
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    },
+    "authors": [
+        {
+            "name": "Herman Peeren",
+            "email": "herman@yepr.nl"
+        }
+    ]
+}
